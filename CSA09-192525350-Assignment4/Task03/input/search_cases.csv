@@ -1,0 +1,3 @@
+query,category,expected
+java,All,Two matching catalogue records
+,All,Enter a search term validation

@@ -1,0 +1,5 @@
+student_id,student_name,event_name,expected
+S1001,Asha,Tech Fest,Success
+S1001,Asha,Tech Fest,Duplicate rejected
+,Missing,Cultural Night,Invalid input
+S1002,Ravi,Sports Meet,Success

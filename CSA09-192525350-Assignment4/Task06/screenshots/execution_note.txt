@@ -1,0 +1,1 @@
+Compiled successfully with OpenJDK 21.0.12. GUI launch verified in virtual display: CampusEventApp.png is the captured initial application window. Interactive test cases are documented in input/ and README.md; perform and capture them locally before final submission.

@@ -1,0 +1,5 @@
+1. Launch DrawPad.
+2. Click the drawing area three times.
+3. Verify label reads Clicks: 3 and three dots appear.
+4. Minimise and restore the window.
+5. Verify all three dots remain.

@@ -1,0 +1,3 @@
+Compilation check: all Java source files compiled successfully with OpenJDK 21.0.12.
+GUI preview captures: 6 PNG files.
+Task 6 requires MySQL Connector/J and a configured MySQL server for runtime database operations.

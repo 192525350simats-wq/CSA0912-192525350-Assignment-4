@@ -1,0 +1,4 @@
+patient_id,department,doctor,slot,expected
+P1001,Cardiology,Dr. Anand,09:00,Confirmed
+P1002,Orthopaedics,Dr. Sana,10:30,Confirmed
+,Cardiology,Dr. Meera,12:00,Validation error

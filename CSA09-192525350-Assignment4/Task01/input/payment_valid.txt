@@ -1,0 +1,3 @@
+Registration number: 192525350
+Amount: 2500.00
+Expected: Payment successful; receipt number displayed.
